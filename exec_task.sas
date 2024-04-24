@@ -10,6 +10,7 @@
 /*****************************************************************************/
 
 /*options mprint mlogic symbolgen;*/
+TESTSETSES
 
 /* snlmaf: Retrieve an authentication token using a client ID and a secret key */
 
